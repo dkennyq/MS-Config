@@ -9,4 +9,4 @@ Open Powershell as Admin
 
 Execute: 
 
-`Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/CJavierSaldana/MS-Config/master/MS-Setup.ps1'))`
+`Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/dkennyq/MS-Config/refs/heads/master/MS-Setup.ps1'))`
